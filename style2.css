@@ -1,0 +1,35 @@
+.logo{
+    background:#eee;
+    padding: 10px;
+    border: 2px;
+    width: 14%;     
+    float: left 
+}
+.menu{
+    background:#ccc;
+    float: left;
+    width: 82%;
+    padding: 15px;
+}
+.logo img{
+    height: 60px;
+    width:100px;
+}
+ul,li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: inline;
+   
+}
+.menu ul li a{
+    padding:5px;
+    margin:3px;
+    background:black;
+    color: white;
+    text-decoration: none;
+    line-height: 50px;
+}
+header{
+    width: 100%;
+}

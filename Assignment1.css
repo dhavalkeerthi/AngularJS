@@ -1,0 +1,65 @@
+.Header {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: rgba(255,255,255,0.75);
+    background-color: #24292e;
+}
+header div ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+header div ul li{
+    display: inline;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+#Search{     display: table-cell;
+    width: 99.999%;
+    min-height: 26px;
+    padding-top: 0;
+    padding-bottom: 0;
+    background: none;
+    border: 0;
+    box-shadow: none;
+}
+.Image img{
+    height: 32px;
+    width: 32px;
+    padding-left: 40%;
+}
+.Image{
+    width: 70px;
+    float: left;
+}
+.Menu{
+    display: block;
+    color: rgba(255,255,255,0.75);
+    width: 400px;
+    float: left;
+}
+.Search{
+    width: 10%;
+}
+.Header .Search{
+    min-height: 30px;
+    font-size: 16px;
+}
+.Reference{
+    text-decoration: none;
+    font-weight: 600;
+    color: #fff;
+    display: inline;
+}
+section{
+    color:#2b3137;
+    background: #2b3137;
+}
+.BodyDesc{
+    color:#fff;
+    
+}
+.BodyHeading{
+    color: white;
+}
